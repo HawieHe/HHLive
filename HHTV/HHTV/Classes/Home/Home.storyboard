@@ -5,10 +5,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Home View Controller-->
         <scene sceneID="65S-lv-ZgC">
             <objects>
-                <viewController id="fyU-1p-Tps" sceneMemberID="viewController">
+                <viewController id="fyU-1p-Tps" customClass="HomeViewController" customModule="HHTV" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="z3Q-gH-oHW"/>
                         <viewControllerLayoutGuide type="bottom" id="OZr-4V-VWu"/>
